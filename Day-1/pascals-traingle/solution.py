@@ -1,4 +1,5 @@
 class Solution:
+    #using ncr method
     def generate(self, numRows: int) -> List[List[int]]:
         def ncr(n, r):
              return fact(n) // (fact(r) * fact(n - r))
