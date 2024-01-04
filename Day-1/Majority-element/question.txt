@@ -1,7 +1,6 @@
 
 169. Majority Element
-Solved
-Easy
+
 
 Topics
 Companies
